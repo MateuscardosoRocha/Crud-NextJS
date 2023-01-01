@@ -1,0 +1,15 @@
+.entrada{
+    display: flex;
+    flex-direction: column;
+    color: #000;
+}
+
+.input{
+    border: 1px purple solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.label{
+    margin-bottom: 4px;
+}

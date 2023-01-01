@@ -1,0 +1,13 @@
+.center{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    background-color: #fff;
+    color: gray;
+    border-radius: 10px;
+
+}
+
+.childrens{
+    padding: 6px;
+}

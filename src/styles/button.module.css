@@ -1,0 +1,11 @@
+.button{
+    background: linear-gradient(rgb(95, 95, 226), rgb(9, 9, 192));
+    color: #fff;
+    border: none;
+    padding: 4px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 4px;
+
+}
+
